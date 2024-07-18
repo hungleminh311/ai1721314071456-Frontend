@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Choose from a wide range of premium vehicles and experience top-tier service for all your travel needs.",
+        "title": "Effortless Car Rentals for Every Journey"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Choose from a wide range of premium vehicles and experience top-tier service for all your travel needs.",
+        "title": "Effortless Car Rentals for Every Journey"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Choose from a wide range of premium vehicles and experience top-tier service for all your travel needs.",
+        "title": "Effortless Car Rentals for Every Journey"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Choose from a wide range of premium vehicles and experience top-tier service for all your travel needs.",
+        "title": "Effortless Car Rentals for Every Journey"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Choose from a wide range of premium vehicles and experience top-tier service for all your travel needs.",
+        "title": "Effortless Car Rentals for Every Journey"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Choose from a wide range of premium vehicles and experience top-tier service for all your travel needs.",
+        "title": "Effortless Car Rentals for Every Journey"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Choose from a wide range of premium vehicles and experience top-tier service for all your travel needs.",
+        "title": "Effortless Car Rentals for Every Journey"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Choose from a wide range of premium vehicles and experience top-tier service for all your travel needs.",
+        "title": "Effortless Car Rentals for Every Journey"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Choose from a wide range of premium vehicles and experience top-tier service for all your travel needs.",
+        "title": "Effortless Car Rentals for Every Journey"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Effortless Car Rentals for Every Journey",
+  "subtitle": "Choose from a wide range of premium vehicles and experience top-tier service for all your travel needs."
+}
